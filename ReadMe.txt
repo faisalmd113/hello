@@ -1,0 +1,1 @@
+Please run Assignment.java class as TestNGtest Which is under src/test/java path.
